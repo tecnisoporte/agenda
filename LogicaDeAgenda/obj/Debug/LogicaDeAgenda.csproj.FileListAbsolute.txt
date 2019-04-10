@@ -1,0 +1,6 @@
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\LogicaDeAgenda\bin\Debug\LogicaDeAgenda.dll
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\LogicaDeAgenda\bin\Debug\LogicaDeAgenda.pdb
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\LogicaDeAgenda\obj\Debug\LogicaDeAgenda.csprojAssemblyReference.cache
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\LogicaDeAgenda\obj\Debug\LogicaDeAgenda.csproj.CoreCompileInputs.cache
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\LogicaDeAgenda\obj\Debug\LogicaDeAgenda.dll
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\LogicaDeAgenda\obj\Debug\LogicaDeAgenda.pdb

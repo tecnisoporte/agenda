@@ -1,0 +1,9 @@
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\ConexionBaseDedatos\bin\Debug\ConexionBaseDedatos.dll
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\ConexionBaseDedatos\bin\Debug\ConexionBaseDedatos.pdb
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\ConexionBaseDedatos\bin\Debug\LogicaDeAgenda.dll
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\ConexionBaseDedatos\bin\Debug\LogicaDeAgenda.pdb
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\ConexionBaseDedatos\obj\Debug\ConexionBaseDedatos.csprojAssemblyReference.cache
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\ConexionBaseDedatos\obj\Debug\ConexionBaseDedatos.csproj.CoreCompileInputs.cache
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\ConexionBaseDedatos\obj\Debug\ConexionBaseDedatos.csproj.CopyComplete
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\ConexionBaseDedatos\obj\Debug\ConexionBaseDedatos.dll
+C:\Users\salomon\Documents\Principios de Construccion\Chunches\Agenda_WPF\ConexionBaseDedatos\obj\Debug\ConexionBaseDedatos.pdb
